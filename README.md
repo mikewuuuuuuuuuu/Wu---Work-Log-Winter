@@ -1,6 +1,6 @@
-# Wu---Work-Log-Winter Week 0
+# Wu---Work-Log-Winter
 
-# Winter 
+
 ### Week 0
 
 Continue working on the unit convertor **2hr**
