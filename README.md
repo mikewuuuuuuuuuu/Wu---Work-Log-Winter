@@ -1,7 +1,7 @@
 # Wu---Work-Log-Winter Week 0
 
-#Winter 
-###Week 0
+# Winter 
+### Week 0
 
 Continue working on the unit convertor **2hr**
 
@@ -32,7 +32,7 @@ Language translator
 
 
 
-###Week 1
+### Week 1
 
 On Youtube: Learning how API works - https://www.youtube.com/watch?v=hpc5jyVpUpw
 Asking Daniel for advice and guidance **1hr**
