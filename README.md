@@ -1,5 +1,12 @@
 # Wu---Work-Log-Winter
 
+### Week 2
+
+Work on reformatting the repo and fixing the .py file **0.5hr**
+
+Using this youtube to start thinking and working on my weather app: https://www.youtube.com/watch?v=NCCYWIzN6hU **0.5hr**
+
+
 ### Week 1
 
 On Youtube: Learning how API works - https://www.youtube.com/watch?v=hpc5jyVpUpw
