@@ -1,5 +1,23 @@
 # Wu---Work-Log-Winter
 
+### Week 2.5
+
+Use openweathermap for my weather apis: https://home.openweathermap.org/api_keys
+Key: fbdd760a4dbee3b2c84ed5ec8ca943c8
+
+Consult with Daniel on the specifics of making an app including importing requests **1hr**
+
+api not working, asking chatGPT to fix it: https://chat.openai.com/share/9fcdbf21-5300-43e3-b90c-31d1877112a3
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/2b8a4086-40f9-41a0-bc53-9df8a95e8f7b)
+Looks like I forgot to verify my account, and the api will be activated in the next couple hours. 
+
+Change this into typing the city user desires **1hr**
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/b315f977-0ec3-4fc4-8a74-1a4a9baf1af7)
+
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/5c619c19-b5c4-468c-840b-fe1103303d6c)
+
+
+
 ### Week 2
 
 Work on reformatting the repo and fixing the .py file **0.5hr**
