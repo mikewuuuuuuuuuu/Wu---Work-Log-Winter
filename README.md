@@ -25,6 +25,8 @@ pip install googletrans==4.0.0-rc1
 This can be done using google translate APIs
 I have to comply with Google's terms of service when using their services
 
+Link to today's work: https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/blob/096e3f2d208ddf1db1e2850bc24059534e0d9dae/USEFUL%20ToolBox%20011624.py
+
 ### Week 2.5
 
 Use openweathermap for my weather apis: https://home.openweathermap.org/api_keys
