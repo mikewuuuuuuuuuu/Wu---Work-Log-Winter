@@ -1,5 +1,30 @@
 # Wu---Work-Log-Winter
 
+### Week 3
+
+Fixing weather api, personal api address not working, using youtube and chatGPT for help. **1hr**
+https://chat.openai.com/share/68c6bc7b-b566-4350-9926-e27cc35de8d5 
+https://www.youtube.com/watch?v=lS_eB7Kiv9w&pp=ygUuYXBpIGtleSBub3QgdmFsaWQuIHBsZWFzZSBwYXNzIGEgdmFsaWQgYXBpIGtleQ%3D%3D
+
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/8615c924-5b5b-4cb1-a848-4366b0797b7d)
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/ddee16f8-2420-417c-95ca-caa5bea2dc34)
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/0d5529cd-6d53-4ead-b3ea-6f52eae92db0)
+
+Changed to that if user only type the city without a state or country the results will still pop out **2hr**
+https://chat.openai.com/share/b242554a-6e67-45e0-b506-546e8e9b8873
+
+Thinking of what's next for the USEFUL Toolbox, language translator??
+
+Start learning about the language translator, limited to a few languages at the start. **1hr**
+references from Youtube: https://www.youtube.com/watch?v=3ydfbFFrPWE&pp=ygU2aG93IHRvIG1ha2UgYSBsYW5ndWFnZSB0cmFuc2xhdG9yIGluIHB5dGhvbiBpbiB0a2ludGVy
+references from ChatGPT: https://chat.openai.com/share/871d92ce-736d-431a-b5a3-bd2dd89ce34c
+
+pip install googletrans==4.0.0-rc1
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/8e3d0c60-3118-457b-a486-83c4187541a0)
+
+This can be done using google translate APIs
+I have to comply with Google's terms of service when using their services
+
 ### Week 2.5
 
 Use openweathermap for my weather apis: https://home.openweathermap.org/api_keys
