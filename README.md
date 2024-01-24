@@ -14,7 +14,12 @@ Not working asking ChatGPT for help
 This is not working either, doing language translator is harder than I thought
 
 ![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/14bac306-08aa-41a5-a1b6-8f3a516faaa4)
-Still doesn't work, continue to work on this next week.
+If still doesn't work, continue to work on this next week.
+
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/e51ec988-8aea-41db-9627-b072a9a7b35c)
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/66867cd9-3c89-4b70-ae65-92ba8a9369de)
+
+Finally, it worked! But not in Pycharm, perhaps some issue with Pycharm interperator.
 
 ### Week 3
 
