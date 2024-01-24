@@ -20,6 +20,7 @@ If still doesn't work, continue to work on this next week.
 ![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/66867cd9-3c89-4b70-ae65-92ba8a9369de)
 
 Finally, it worked! But not in Pycharm, perhaps some issue with Pycharm interperator.
+Link to this week's work: https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/blob/801607f1723ec5a32cb9d1997ae7b0383365d0cc/012324%20USEFUL%20Toolbox.py
 
 ### Week 3
 
