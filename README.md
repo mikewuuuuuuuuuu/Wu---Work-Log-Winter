@@ -1,5 +1,21 @@
 # Wu---Work-Log-Winter
 
+### Week 4
+
+Got a new pc, gotta download python, doing some pip installs.
+
+Start learning and working on the google translator app in my Toolbox **1hr**
+  Using YouTube and ChatGPT: https://www.youtube.com/watch?,  https://chat.openai.com/share/45540163-fb72-4b00-8c44-06ea6258de18
+
+Inputing these code into my toolbox **3hr**
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/d8012b04-2eed-424f-b33d-cc2771a9867c)
+Not working asking ChatGPT for help
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/1ca03c55-183d-46b0-b3a5-ebfd86e8d6c4)
+This is not working either, doing language translator is harder than I thought
+
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/14bac306-08aa-41a5-a1b6-8f3a516faaa4)
+Still doesn't work, continue to work on this next week.
+
 ### Week 3
 
 Fixing weather api, personal api address not working, using youtube and chatGPT for help. **1hr**
