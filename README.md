@@ -1,5 +1,20 @@
 # Wu---Work-Log-Winter
 
+### Week 5
+
+The code stopped working again, I suspect this has to do something with Pycharm, have to figure this out.
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/64fa918c-573b-4606-a6d1-e837968dd2a3)
+Tried fixing for **2hr** still doesn't work, checking my main python.
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/c8b2dcdb-cb49-49ba-a1fd-16fc6527ab0d)
+Now python shows syntax error, asking chatGPT for help. **1hr**
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/f5eeca71-fc2f-4370-af60-a99999fe2135)
+It says python not found, redownloading.
+After fixing, repairing python file, still not working. **1hr**
+![image](https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/70d343d0-035c-4757-b256-4142aec29cb4)
+Will need further research into how to fix this, and perhaps thinking about how to add on more to my toolbox. 
+
+
+
 ### Week 4
 
 Got a new pc, gotta download python, doing some pip installs.
