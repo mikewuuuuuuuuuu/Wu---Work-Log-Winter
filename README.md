@@ -1,4 +1,4 @@
-<img width="393" alt="Screenshot 2024-02-23 at 1 25 38 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/0680ddb9-986f-4a9b-a1a4-a80a2cff6a95"># Wu---Work-Log-Winter
+# Wu---Work-Log-Winter
 
 ### Final Reflection
 
@@ -22,9 +22,9 @@ One thing I learned that wasn't technical was not relying on ChatGPT so much for
 
 **Translator:**
 <img width="388" alt="Screenshot 2024-02-23 at 1 25 03 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/ac0decf2-ea99-41ca-b53e-052d9f2a9350">
+
 It translates profanity too:
 <img width="393" alt="Screenshot 2024-02-23 at 1 25 38 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/087d3c0a-3091-4264-9205-dce334ac5d47">
-
 
 
 ### Week 5
