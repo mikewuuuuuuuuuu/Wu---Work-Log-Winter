@@ -1,4 +1,31 @@
-# Wu---Work-Log-Winter
+<img width="393" alt="Screenshot 2024-02-23 at 1 25 38 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/0680ddb9-986f-4a9b-a1a4-a80a2cff6a95"># Wu---Work-Log-Winter
+
+### Final Reflection
+
+I would consider this term overall successful. The USEFUL Toolbox works well. 
+
+At first understanding the API structure is difficult but with practice, it becomes easier and more efficient. 
+
+By incorporating Tkinter, it successfully presents the usage and the possibilities of APIs. 
+
+I had successes when making the Currency Converter and the weather app. But struggled to make the Translator app, however, with help from my friend and ChatGPT, I was able to figure out and debug. 
+
+One thing I learned that wasn't technical was not relying on ChatGPT so much for help, as I head into the harder dimensions of coding, ChatGPT becomes more and more inefficient in solving my problem. I was able to debug on my own with simpler API apps, but asked for help in the harder one. 
+
+**Currency Converter:**
+<img width="593" alt="Screenshot 2024-02-23 at 1 22 13 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/ddce5930-2ec2-461c-a816-060bb52c90f5">
+
+**Weather App:**
+<img width="592" alt="Screenshot 2024-02-23 at 1 23 08 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/e543d2a6-39c1-4482-b47e-0bce6add70b6">
+<img width="592" alt="Screenshot 2024-02-23 at 1 23 22 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/799e1fc9-016b-4e55-ab29-abdf72669f16">
+<img width="595" alt="Screenshot 2024-02-23 at 1 23 42 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/29e281f2-36ec-4b3e-85ce-d3cdfee4eed2">
+
+**Translator:**
+<img width="388" alt="Screenshot 2024-02-23 at 1 25 03 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/ac0decf2-ea99-41ca-b53e-052d9f2a9350">
+It translates profanity too:
+<img width="393" alt="Screenshot 2024-02-23 at 1 25 38 PM" src="https://github.com/mikewuuuuuuuuuu/Wu---Work-Log-Winter/assets/152926083/087d3c0a-3091-4264-9205-dce334ac5d47">
+
+
 
 ### Week 5
 
